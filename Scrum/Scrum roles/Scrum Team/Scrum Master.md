@@ -2,18 +2,11 @@
 aliases:
   - Scrum Masters
 ---
+The Scrum Master is a member of the [[Scrum Team]].
 
-member of the [[Scrum Team]]
-
-
-> The Scrum Master is accountable for establishing [[Scrum framework|Scrum]] as defined in the [[Scrum Guide|Scrum Guide]]. They do this by helping everyone understand [[Scrum theory]] and practice, both within the [[Scrum Team]] and the [[organization]].
-> 
-> The Scrum Master is accountable for the [[Scrum Team]]’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the [[Scrum framework]].
-> 
-> Scrum Masters are true leaders who serve the [[Scrum Team]] and the larger [[organization]].
->
-> [[Scrum Guide|Scrum Guide (2020)]]
-
+The Scrum Master is accountable for[^scrum-guide-2020]:
+1. "establishing [[Scrum framework|Scrum]] as defined in the [[Scrum Guide|Scrum Guide]]". They help the [[Scrum Team]] and the [[organization]] "understand the [[Scrum theory]] and practice".
+2. "the [[Scrum Team]]’s effectiveness". They help the [[Scrum Team]] "improve its practices within the [[Scrum framework]]".
 ## The Scrum Master serves[^scrum-guide-2020] ...
 ### the [[Scrum Team]] by ...
 - Coaching the team members in self-management and cross-functionality;
