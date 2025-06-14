@@ -4,4 +4,6 @@ The [[Product Owner]] may delegate the responsibility of the Product Backlog, bu
 
 The decisions of the [[Product Owner]] are visible to the [[organization]] "in the content and ordering of the Product Backlog"[^scrum-guide-2020].
 
+The [[Scrum Master]] helps the [[Product Owner]] "find techniques for effective \[...\] [[Product Backlog]] management"[^scrum-guide-2020].
+
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
