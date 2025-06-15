@@ -18,7 +18,7 @@ aliases:
 > - Ensuring that all [[Scrum events]] take place and are positive, productive, and kept within the timebox.
 > [[Scrum Guide|Scrum Guide (2020)]]
 
-The [[Scrum Master]] helps the [[Scrum Team]] "understand the need for clear and concise [[Product Backlog item|Product Backlog items]]"[^scrum-guide-2020].
+The [[Scrum Master]] helps the [[Scrum Team]] "understand the need for clear and concise [[Product Backlog|Product Backlog items]]"[^scrum-guide-2020].
 
 
 > The [[Scrum Master]] serves the [[organization]] in several ways, including:
@@ -30,7 +30,7 @@ The [[Scrum Master]] helps the [[Scrum Team]] "understand the need for clear and
 
 The [[Product Backlog]] is the "single source of work undertaken by the [[Scrum Team]]"[^scrum-guide-2020].
 
-> [[Product Backlog item|Product Backlog items]] that can be [[Definition of Done|Done]] by the [[Scrum Team]] within one [[Sprint]] are deemed ready for selection in a [[Sprint Planning]] event. They usually acquire this degree of [[transparency]] after [[Product Backlog refinement|refining]] activities. \[...\]
+> [[Product Backlog|Product Backlog items]] that can be [[Definition of Done|Done]] by the [[Scrum Team]] within one [[Sprint]] are deemed ready for selection in a [[Sprint Planning]] event. They usually acquire this degree of [[transparency]] after [[Product Backlog|refining]] activities. \[...\]
 > [[Scrum Guide|Scrum Guide (2020)]]
 > 
 

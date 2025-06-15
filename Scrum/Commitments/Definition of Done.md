@@ -8,7 +8,7 @@ The [[Developers]] are accountable for "instilling quality by adhering to a [[De
 The [[Scrum Master]] helps "the Scrum Team focus on creating high-value [[Increment|increments]] that meet the [[Definition of Done]]"[^scrum-guide-2020].
 
 
-> [[Product Backlog item|Product Backlog items]] that can be [[Definition of Done|Done]] by the [[Scrum Team]] within one [[Sprint]] are deemed ready for selection in a [[Sprint Planning]] event. They usually acquire this degree of [[transparency]] after [[Product Backlog refinement|refining]] activities. \[...\]
+> [[Product Backlog|Product Backlog items]] that can be [[Definition of Done|Done]] by the [[Scrum Team]] within one [[Sprint]] are deemed ready for selection in a [[Sprint Planning]] event. They usually acquire this degree of [[transparency]] after [[Product Backlog|refining]] activities. \[...\]
 > [[Scrum Guide|Scrum Guide (2020)]]
 
 

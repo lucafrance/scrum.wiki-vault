@@ -3,7 +3,7 @@ aliases:
   - organizations
 ---
 The organization must respect the decisions of the [[Product Owner]], who is the only one accountable for maximizing the value of the product. The organization can see the decisions of the [[Product Owner]] through:
-- the [[Product Backlog]], which includes the [[Product Backlog item|Product Backlog items]] and the [[Product Goal]];
+- the [[Product Backlog]], which includes the [[Product Backlog|Product Backlog items]] and the [[Product Goal]];
 - the inspectable [[Increment]] at the [[Sprint Review]].
 
 > The [[Scrum Master]] is accountable for establishing [[Scrum framework|Scrum]] as defined in the [[Scrum Guide|Scrum Guide]]. They do this by helping everyone understand [[Scrum theory]] and practice, both within the [[Scrum Team]] and the [[organization]].

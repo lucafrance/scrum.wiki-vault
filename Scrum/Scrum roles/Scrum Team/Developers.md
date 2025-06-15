@@ -8,7 +8,7 @@ The Developers are accountable for[^scrum-guide-2020]:
 - Adapting their plan each day toward the [[Sprint Goal]]; and,
 - Holding each other accountable as professionals.
 
-The Developers are responsible for[^scrum-guide-2020]
-- sizing the [[Product Backlog item|Product Backlog items]]. "The [[Product Owner]] may influence the Developers by helping them understand and select trade-offs".
+> The [[Developers]] who will be doing the work are responsible for the sizing. The [[Product Owner]] may influence the Developers by helping them understand and select trade-offs.
+> [[Scrum Guide|Scrum Guide (2020)]]
 
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]

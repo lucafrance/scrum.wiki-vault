@@ -10,24 +10,12 @@ The Product Owner is also accountable for managing the [[Product Backlog]]. They
 
 The Product Backlog management responsibilities include[^scrum-guide-2020]:
 - Developing and communicating the [[Product Goal]] (the [[commitment]] of the Product Backlog);
-- Creating and managing the [[Product Backlog item|Product Backlog items]];
+- Creating and managing the [[Product Backlog|Product Backlog items]];
 - Ensuring [[transparency]] for the [[Product Backlog]][^transparency-product-backlog].
 
 The Product Owner ensures transparency for the [[Product Backlog]] by also making it visible to the whole [[organization]][^po-decisions].
 
->  The Product Owner may represent the needs of many [[stakeholders]] in the [[Product Backlog]]. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
-> [[Scrum Guide|Scrum Guide (2020)]]
-
-> The Scrum Master serves the [[Product Owner]] in several ways, including:
-> - Helping find techniques for effective [[Product Goal]] definition and [[Product Backlog]] management;
-> - Helping the [[Scrum Team]] understand the need for clear and concise [[Product Backlog item|Product Backlog items]];
-> - Helping establish empirical product planning for a complex environment; and,
-> - Facilitating [[stakeholders|stakeholder]] collaboration as requested or needed.
-> [[Scrum Guide|Scrum Guide (2020)]]
-
-
-> The [[Developers]] who will be doing the work are responsible for the sizing. The [[Product Owner]] may influence the Developers by helping them understand and select trade-offs.
-> [[Scrum Guide|Scrum Guide (2020)]]
+TODO what the Product Owner does during the Sprint Planning and other events
 
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
 [^scrum-team-definition]: "The Scrum Team consists of one Scrum Master, one Product Owner, and Developers."[^scrum-guide-2020]

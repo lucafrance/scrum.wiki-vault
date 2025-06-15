@@ -15,7 +15,7 @@ The Scrum Master is accountable for[^scrum-guide-2020]:
 - Ensuring that all [[Scrum events]] take place and are positive, productive, and kept within the timebox.
 ### the [[Product Owner]] by ...
 - Helping find techniques for effective [[Product Goal]] definition and [[Product Backlog]] management;
-- Helping the [[Scrum Team]] understand the need for clear and concise [[Product Backlog item|Product Backlog items]];
+- Helping the [[Scrum Team]] understand the need for clear and concise [[Product Backlog|Product Backlog items]];
 - Helping establish empirical product planning for a complex environment; and,
 - Facilitating [[stakeholders|stakeholder]] collaboration as requested or needed
 ### the [[organization]] by ...
