@@ -1,1 +1,7 @@
+---
+aliases:
+  - inspectable
+  - inspect
+---
+
 TODO
