@@ -1,6 +1,7 @@
 ---
 aliases:
   - focus
+  - focused
 ---
 
 

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Sprints
+---
+
+
 For each [[Sprint]], there can be multiple [[Increment|increments]][^multiple-increments]. The [[Developers]] are [[commitment|committed]] in creating at least one[^developers-definition].
 
 [^multiple-increments]: "Multiple Increments may be created within a Sprint."[^scrum-guide-2020]

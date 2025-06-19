@@ -6,9 +6,10 @@ They are accountable for[^scrum-guide-2020].
 - [[adaptation|adapting]] the plan in the [[Sprint Backlog]] towards the [[Sprint Goal]] each day,
 - "holding [[Scrum Values|each other]] accountable as professionals".
 
-They are committed in creating at least one [[Increment]] for each [[Sprint]][^multiple-increments].
+They are committed in creating at least one [[Increment]] for each [[Sprint]][^multiple-increments], while the whole [[Scrum Team]] is accountable for it[^scrum-guide-2020].
 
 [^multiple-increments]: "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint." "Multiple Increments may be created within a Sprint."[^scrum-guide-2020]
+[^increment-sprint-accountability]: "The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint."[^scrum-guide-2020]
 
 During the [[Sprint Planning]], the [[Developers]] doing are responsible for sizing the [[Product Backlog|Product Backlog items]] selected for the [[Sprint Backlog]][^developers-responsible-sizing].
 

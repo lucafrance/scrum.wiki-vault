@@ -4,6 +4,8 @@ aliases:
 ---
 The Scrum Master is a member of the [[Scrum Team]]. There is one Scrum Master in the Scrum Team[^scrum-team-definition].
 
+[^scrum-team-definition]: "The Scrum Team consists of one Scrum Master, one Product Owner, and Developers."[^scrum-guide-2020]
+
 The [[Scrum Master]] is accountable for establishing [[Scrum framework|Scrum]] as defined in the [[Scrum Guide]] in the whole [[organization]], including the [[Scrum Team]]. They are also accountable for the [[Scrum Team]]'s effectiveness. The [[Scrum Master]] help everyone in the [[organization]] "understand the [[Scrum theory]] and practice". They help the [[Scrum Team]] specifically to "improve its practices within the [[Scrum framework]]".
 
 ## The Scrum Master serves the organization and the Scrum Team
@@ -31,4 +33,3 @@ Within the [[Scrum Team]], they serve the [[Product Owner]] in several ways, inc
 
 
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
-[^scrum-team-definition]: "The Scrum Team consists of one Scrum Master, one Product Owner, and Developers."[^scrum-guide-2020]
