@@ -7,6 +7,9 @@ aliases:
   - Product Backlog refinement
   - Product Backlog items
 ---
+During the [[Sprint Planning]], the [[Developers]] doing the work are responsible for sizing the [[Product Backlog|Product Backlog items]] selected for the [[Sprint Backlog]][^developers-responsible-sizing].
+
+[^developers-responsible-sizing]: "The Product Backlog [...] is the single source of work undertaken by the Scrum Team." "Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event." "The Developers who will be doing the work are responsible for the sizing."[^scrum-guide-2020]
 
 > The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the [[Scrum Team]].
 > [[Scrum Guide|Scrum Guide (2020)]]
