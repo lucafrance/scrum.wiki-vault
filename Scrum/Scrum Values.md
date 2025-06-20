@@ -12,6 +12,7 @@ From the [[Scrum Guide]].
 > These values give direction to the [[Scrum Team]] with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The [[Scrum Team]] members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical [[Scrum pillars]] of transparency, inspection, and adaptation come to life building trust.
 
 The Scrum Values are reflected in the [[Scrum Guide]], e.g.:
-- The [[Scrum Team]] "is a cohesive unit of professionals focused on one objective at a time, the Product Goal".
+- "\[The [[Scrum Team]]\] is a cohesive unit of professionals focused on one objective at a time, the Product Goal".
 - "\[The [[Developers]] hold\] each other accountable as professionals".
 - "[[Scrum Master|Scrum Masters]] are true leaders who serve the [[Scrum Team]] and the larger [[organization]]."
+- "\[The [[Sprint|Sprints]]] are fixed length events of one month or less to create consistency."
