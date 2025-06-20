@@ -1,7 +1,7 @@
 ---
 aliases:
   - DoD
-  - Done
+  - done
 ---
 The [[Developers]] are accountable for "instilling quality by adhering to a [[Definition of Done]]"[^scrum-guide-2020].
 
