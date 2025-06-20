@@ -69,10 +69,6 @@ Various practices exist to forecast progress, like burn-downs, burn-ups, or cumu
 
 ### Sprint Planning
 
-Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team.
-
-The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.
-
 Sprint Planning addresses the following topics:
 
 #### Topic One: Why is this Sprint valuable?

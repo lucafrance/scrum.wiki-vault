@@ -2,7 +2,7 @@
 aliases:
   - Sprints
 ---
-The [[Sprint]] is the main [[Scrum events|Scrum event]]. All the [[Scrum Team]]'s work happens within the [[Sprint]], including the other [[Scrum events]][^all-work-sprint]. Sprints have a fixed length of one month of less to improve [[Scrum Values|focus and consistency]] of the [[Scrum Team]][^sprint-focus-consistency].
+The [[Sprint]] is the main [[Scrum events|Scrum event]]. All the [[Scrum Team]]'s work happens within the [[Sprint]], including the other [[Scrum events]][^all-work-sprint]. Sprints have a fixed length of one month of less to improve [[Scrum Values|focus and consistency]] of the [[Scrum Team]][^sprint-focus-consistency]. 
 
 [^all-work-sprint]: "The Sprint is a container for all other events." "All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints."[^scrum-guide-2020]
 [^sprint-focus-consistency]:"Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency." "They are fixed length events of one month or less to create consistency."[^scrum-guide-2020]
