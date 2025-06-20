@@ -55,24 +55,15 @@ Adaptation becomes more difficult when the people involved are not empowered or 
 
 ## Scrum Events
 
-The Sprint is a container for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
+Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
 
 Optimally, all events are held at the same time and place to reduce complexity.
 
 ### The Sprint
 
-During the Sprint:
+Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month.
 
-- No changes are made that would endanger the Sprint Goal;
-    
-- Quality does not decrease;
-    
-- The Product Backlog is refined as needed; and,
-    
-- Scope may be clarified and renegotiated with the Product Owner as more is learned.
-    
-
-Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
+Each Sprint may be considered a short project.
 
 Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
 

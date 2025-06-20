@@ -28,6 +28,10 @@ The Product Backlog refinement is an ongoing activity. It is not a [[Scrum event
 
 [^refinement-definition]: "Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work."[^scrum-guide-2020]
 
+The refinement does not necessarily have a fixed cadence, it is just done as needed during the [[Sprint]][^refinement-as-needed].
+
+[^refinement-as-needed]: During the Sprint: \[...\] The Product Backlog is refined as needed \[...\].
+
 The [[Product Owner]] is accountable for the refinement, as they are accountable for managing the Product Backlog in general, but they can still delegate the responsibility[^po-accountable-refinement].
 Through the refinement, the Product Backlog items become more transparent[^refinement-transparency].
 
