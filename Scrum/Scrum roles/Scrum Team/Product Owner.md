@@ -11,7 +11,7 @@ The Product Owner is also accountable for managing the [[Product Backlog]]. They
 The Product Backlog management responsibilities include[^scrum-guide-2020]:
 - Developing and communicating the [[Product Goal]] (the [[commitment]] of the Product Backlog);
 - Creating and managing the [[Product Backlog|Product Backlog items]];
-- Ensuring [[transparency]] for the [[Product Backlog]][^transparency-product-backlog].
+- Ensuring [[Scrum pillars|transparency]] for the [[Product Backlog]][^transparency-product-backlog].
 
 The Product Owner ensures transparency for the [[Product Backlog]] by also making it visible to the whole [[organization]][^po-decisions].
 

@@ -3,7 +3,7 @@ The Developers are members of the [[Scrum Team]][^scrum-guide-2020].
 They are accountable for[^scrum-guide-2020].
 - creating the [[Sprint Backlog]] every [[Sprint]],
 - adhering to the [[Definition of Done]], 
-- [[adaptation|adapting]] the plan in the [[Sprint Backlog]] towards the [[Sprint Goal]] each day,
+- [[Scrum pillars|adapting]] the plan in the [[Sprint Backlog]] towards the [[Sprint Goal]] each day,
 - "holding [[Scrum Values|each other]] accountable as professionals".
 
 They are committed in creating at least one [[Increment]] for each [[Sprint]][^multiple-increments], while the whole [[Scrum Team]] is accountable for it[^scrum-guide-2020].

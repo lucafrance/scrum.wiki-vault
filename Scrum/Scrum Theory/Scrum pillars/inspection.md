@@ -1,6 +1,0 @@
----
-aliases:
-  - inspectable
-  - inspect
----
-
