@@ -1,8 +1,12 @@
 ---
 aliases:
   - Sprints
+  - Sprint forecasting
+  - forecasting forecast
+  - forecasting
+  - forecast
 ---
-The [[Sprint]] is the main [[Scrum events|Scrum event]]. All the [[Scrum Team]]'s work happens within the [[Sprint]], including the other [[Scrum events]][^all-work-sprint]. Sprints have a fixed length of one month of less to improve [[Scrum Values|focus and consistency]] of the [[Scrum Team]][^sprint-focus-consistency]. 
+The [[Sprint]] is the main [[Scrum events|Scrum event]]. All the [[Scrum Team]]'s work happens within the [[Sprint]], including the other [[Scrum events]][^all-work-sprint]. Sprints have a fixed length of one month of less to improve [[Scrum Values|focus and consistency]] of the [[Scrum Team]][^sprint-focus-consistency].
 
 [^all-work-sprint]: "The Sprint is a container for all other events." "All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints."[^scrum-guide-2020]
 [^sprint-focus-consistency]:"Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency." "They are fixed length events of one month or less to create consistency."[^scrum-guide-2020]
@@ -43,3 +47,20 @@ If the Sprint is too long, the [[Sprint Goal]] is more likely to become obsolete
 [^sprint-too-long]:"When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase."[^scrum-guide-2020]
 
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
+
+## Sprint forecasts
+
+Any form of forecasting by the [[Scrum Team]] be based on [[empiricism]], as in learning from past events. The [[Scrum Guide]] does not mandate any particular forecasting technique, the [[Scrum Team]] is free to use whatever it please[^forecast-empiricism][^lucafeu-metrics].
+
+[^forecast-empiricism]: "Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making."[^scrum-guide-2020]
+[^lucafeu-metrics]: [lucaf.eu - The metrics that Scrum requires you to use](https://lucaf.eu/2025/02/22/scum-metrics.html)
+
+The regular cadence of the Sprints enables [[Scrum pillars|inspection]] and [[Scrum pillars|adaptation]], which helps improve the forecasts[^sprints-enable-predictability].
+
+[^sprints-enable-predictability]: "Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month."[^scrum-guide-2020]
+
+During the [[Sprint Planning]], the [[Developers]] must forecast how much [[Product Backlog|Product Backlog item]] can be completed within the Sprint and moved to the [[Sprint Backlog]][^step-two-forecast].
+
+[^step-two-forecast]: "Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts."[^scrum-guide-2020]
+
+The [[Scrum Master]] can help identifying adequate techniques and improving the forecast.

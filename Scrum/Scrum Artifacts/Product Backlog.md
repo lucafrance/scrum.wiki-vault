@@ -17,9 +17,13 @@ The Product Backlog is the "single source of work undertaken by the [[Scrum Team
 
 [^po-pbi-ready]:"The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal."[^scrum-guide-2020]
 
-The Product Backlog items ready which can be [[Definition of Done|done]] within a [[Sprint]] are considered by the [[Scrum Team]] during the [[Sprint Planning]]. Items that cannot be [[Definition of Done|done]] in one [[Sprint]] need to be refined to be considered in the next [[Sprint Planning]]. The items selected for the [[Sprint]] leave the Product Backlog and enter the [[Sprint Backlog]].[^pbi-planning]
+The Product Backlog items ready which can be [[Definition of Done|done]] within a [[Sprint]] are considered by the [[Scrum Team]] during the [[Sprint Planning]]. Items that cannot be [[Definition of Done|done]] in one [[Sprint]] need to be refined to be considered in the next [[Sprint Planning]]. The items selected for the [[Sprint]] are added to the [[Sprint Backlog]].[^pbi-planning]
 
 [^pbi-planning]:"Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event." "The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)."[^scrum-guide-2020]
+
+It is up to the [[Developers]] to decide how to turn the Product Backlog items in the [[Sprint Backlog]] to a valuable [[Increment]]. They might choose to decompose the items into smaller ones which can be completed in a day or less[^items-decomposing].
+
+[^items-decomposing]: "For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value."[^scrum-guide-2020]
 
 ## Product Backlog refinement
 
