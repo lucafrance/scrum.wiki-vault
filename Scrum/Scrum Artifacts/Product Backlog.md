@@ -6,6 +6,8 @@ aliases:
   - Product Backlog
   - Product Backlog refinement
   - Product Backlog items
+  - refine
+  - items
 ---
 The Product Backlog is an "emergent, ordered" list of Product Backlog items that are "needed to improve the product"[^scrum-guide-2020]. The [[Product Owner]] is accountable for managing the Product Backlog, but they can delegate the responsibilities[^po-responsible-backlog].
 
@@ -37,6 +39,10 @@ Through the refinement, the Product Backlog items become more transparent[^refin
 
 [^po-accountable-refinement]: "The Product Owner is also accountable for effective Product Backlog management \[...\]." "The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable."[^scrum-guide-2020]
 [^refinement-transparency]: "Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities."[^scrum-guide-2020]
+
+The [[Scrum Team]] may refine the Product Backlog during the [[Sprint Planning]] when selecting the Product Backlog items to add to the [[Sprint Backlog]][^refinement-sprint-plan].
+
+[^refinement-sprint-plan]: "Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items during this process, which increases understanding and confidence."[^scrum-guide-2020]
 ## Product Backlog Items sizing
 
 The [[Developers]] are responsible for sizing the [[Product Backlog|Product Backlog items]], which is functional to understanding which ones can be [[Definition of Done|done]] within a [[Sprint]][^developers-sizing]. Item sizing is part of the Product Backlog refinement activity (see previous section).

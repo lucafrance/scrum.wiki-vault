@@ -15,9 +15,29 @@ Before the Sprint Planning:
 [^sprint-end]: "The Sprint Retrospective concludes the Sprint."[^scrum-guide-2020]
 [^pbi-refinement]: "Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities."[^scrum-guide-2020]
 
-The single source of work for the [[Scrum Team]] is the [[Product Backlog]][^truth]. Only the [[Product Backlog|Product Backlog items]] that can be [[Definition of Done|done]] within the [[Sprint]] are considered. The items selected for the [[Sprint]] leave the [[Product Backlog]] and enter the [[Sprint Backlog]].[^pbi-planning]
+## Sprint Planning agenda
 
-[^truth]:"\[The Sprint Backlog\] is the single source of work undertaken by the Scrum Team."[^scrum-guide-2020]
-[^pbi-planning]:"Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event." "The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)."[^scrum-guide-2020]
+The result of the Sprint Planning is the [[Sprint Backlog]], which includes[^sprint-planning-initiates]
+- the [[Sprint Goal]] (why is the [[Sprint]] valuable?);
+- the [[Product Backlog|Product Backlog items]] selected for the [[Sprint]] (what work can be done in the [[Sprint]]?);
+- a plan to turn the [[Product Backlog|Product Backlog items]] in a valuable [[Increment]] (how will the work be done in the [[Sprint]]?).
+
+[^sprint-planning-initiates]:"Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team." "The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog."
+### Why is the [[Sprint]] valuable?
+The [[Product Owner]] proposes how to make progress towards the [[Product Goal]] during the [[Sprint]].
+The [[Scrum Team]] defines the [[Sprint Goal]] based on the input from the [[Product Owner]] and adds it to the [[Sprint Backlog]]. The [[Sprint Goal]] communicates to the [[stakeholders]] *why* the [[Sprint]] is valuable[^topic-one][^product-goal-is].
+
+[^topic-one]: "The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning."[^scrum-guide-2020]
+[^product-goal-is]: "The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against."[^scrum-guide-2020]
+### What work can be done in the [[Sprint]]?
+The single source of work for the [[Scrum Team]] is the [[Product Backlog]]. Only the [[Product Backlog|Product Backlog items]] that can be [[Definition of Done|done]] within the [[Sprint]] are considered. The [[Developers]] discuss with the [[Product Owner]] and select the items for the [[Sprint]]. The [[Product Backlog|items]] selected for the [[Sprint]] leave the [[Product Backlog]] and enter the [[Sprint Backlog]]. The [[Scrum Team]] may [[Product Backlog|refine]] the [[Product Backlog|items]] further as they are added[^single-source][^pbi-planning][^topic-two].
+
+[^single-source]:"\[The Product Backlog\] is the single source of work undertaken by the Scrum Team."[^scrum-guide-2020]
+[^pbi-planning]:"Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event."[^scrum-guide-2020]
+[^topic-two]: "Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items during this process, which increases understanding and confidence."
+### How will the work be done in the [[Sprint]]?
+The [[Developers]] choose *how* to turn the selected [[Product Backlog|Product Backlog items]] into an [[Increment]] that meets the [[Definition of Done]]. The resulting plan is added to the [[Sprint Backlog]]. The [[Scrum Guide]] does not mandate any specific way to structure the plan, it is up to the [[Developers]][^topic-three].
+
+[^topic-three]: For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value.
 
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
