@@ -18,8 +18,9 @@ Agenda[^purpose-sprint-review][^during-the-event]:
 
 [^po-accountable-product-backlog]: "The Product Owner is also accountable for effective Product Backlog management, \[...\]. The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable."[^scrum-guide-2020]
 
-The Sprint Review is timeboxed to four hours maximum for the longest possible [[Sprint]] of one month. For shorter [[Sprint|Sprints]] it should be less[^sprint-review-second-last]. The [[Scrum Master]] ensures that the Sprint Review takes place and stays within the timebox[^scrum-master-events].
+The Sprint Review is timeboxed to four hours maximum for the longest [[Sprint]] length (one month). For shorter [[Sprint|Sprints]] it should be less[^sprint-review-second-last][^sprint-length]. The [[Scrum Master]] ensures that the Sprint Review takes place and stays within the timebox[^scrum-master-events].
 
+[^sprint-length]: "They are fixed length events of one month or less to create consistency."[^scrum-guide-2020]
 [^scrum-master-events]:"The Scrum Master serves the Scrum Team in several ways, including: \[...\] Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox."[^scrum-guide-2020]
 
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
