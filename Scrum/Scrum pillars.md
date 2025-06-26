@@ -5,6 +5,7 @@ aliases:
   - transparency
   - adapting
   - adapt
+  - inspect
 ---
 
 

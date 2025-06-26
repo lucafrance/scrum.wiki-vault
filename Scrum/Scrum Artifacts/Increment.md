@@ -1,8 +1,9 @@
 ---
 aliases:
-  - increments
+  - Increments
+  - Increment(s)
 ---
-For each [[Sprint]], there can be multiple [[Increment|increments]][^multiple-increments]. The [[Developers]] are [[commitment|committed]] in creating at least one[^developers-definition].
+For each [[Sprint]], there can be multiple Increments[^multiple-increments]. The [[Developers]] are [[commitment|committed]] in creating at least one[^developers-definition].
 
 [^multiple-increments]: "Multiple Increments may be created within a Sprint."[^scrum-guide-2020]
 [^developers-definition]: "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."[^scrum-guide-2020]
