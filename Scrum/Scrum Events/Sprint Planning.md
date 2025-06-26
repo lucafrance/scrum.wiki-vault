@@ -14,10 +14,12 @@ Before the Sprint Planning:
 
 [^sprint-end]: "The Sprint Retrospective concludes the Sprint."[^scrum-guide-2020]
 [^pbi-refinement]: "Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities."[^scrum-guide-2020]
-The Sprint planning is timeboxed to maximum eight hours for the longest [[Sprint]] length (one month)[^sprint-length][^sprint-plan-timebox].
+The Sprint planning is timeboxed to maximum eight hours for the longest [[Sprint]] length (one month)[^sprint-length][^sprint-plan-timebox]. The [[Scrum Master]] ensures that the Sprint Planning takes place and stays within the timebox[^scrum-master-events].
+
 
 [^sprint-length]: "They are fixed length events of one month or less to create consistency."[^scrum-guide-2020]
 [^sprint-plan-timebox]: "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."[^scrum-guide-2020]
+[^scrum-master-events]:"The Scrum Master serves the Scrum Team in several ways, including: \[...\] Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox."[^scrum-guide-2020]
 ## Sprint Planning agenda
 
 The result of the Sprint Planning is the [[Sprint Backlog]], which includes[^sprint-planning-initiates]
