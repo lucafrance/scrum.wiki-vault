@@ -17,7 +17,7 @@ The Product Backlog is the "single source of work undertaken by the [[Scrum Team
 
 [^po-pbi-ready]:"The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal."[^scrum-guide-2020]
 
-The Product Backlog items ready which can be [[Definition of Done|done]] within a [[Sprint]] are considered by the [[Scrum Team]] during the [[Sprint Planning]]. Items that cannot be [[Definition of Done|done]] in one [[Sprint]] need to be refined to be considered in the next [[Sprint Planning]]. The items selected for the [[Sprint]] are added to the [[Sprint Backlog]].[^pbi-planning]
+The Product Backlog items which can be [[Definition of Done|done]] within a [[Sprint]] are considered by the [[Scrum Team]] during the [[Sprint Planning]]. Items that cannot be [[Definition of Done|done]] in one [[Sprint]] need to be refined to be considered in the next [[Sprint Planning]]. The items selected for the [[Sprint]] are added to the [[Sprint Backlog]].[^pbi-planning]
 
 [^pbi-planning]:"Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event." "The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)."[^scrum-guide-2020]
 
