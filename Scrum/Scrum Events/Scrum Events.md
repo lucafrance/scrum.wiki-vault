@@ -18,7 +18,10 @@ There are five events in Scrum, which implement the [[Scrum pillars]][^scrum-com
 [^scrum-team-inspects]: "The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work."[^scrum-guide-2020]
 [^sprint-retrospective-concludes]: "The Sprint Retrospective concludes the Sprint."[^scrum-guide-2020]
 
-The Scrum Events are designed to limit the necessity of other meetings.
+The Scrum Events are designed to limit the necessity of other meetings[^events-are-used].
+
+[^events-are-used]: "Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum."[^scrum-guide-2020]
+
 
 The [[Scrum Master]] ensures "that all [[Scrum events]] take place and are positive, productive, and kept within the timebox"[^scrum-guide-2020].
 
