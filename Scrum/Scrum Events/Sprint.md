@@ -53,7 +53,7 @@ If the Sprint is too long, the [[Sprint Goal]] is more likely to become obsolete
 Any form of forecasting by the [[Scrum Team]] be based on [[empiricism]], as in learning from past events. The [[Scrum Guide]] does not mandate any particular forecasting technique, the [[Scrum Team]] is free to use whatever it please[^forecast-empiricism][^lucafeu-metrics].
 
 [^forecast-empiricism]: "Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making."[^scrum-guide-2020]
-[^lucafeu-metrics]: [lucaf.eu - The metrics that Scrum requires you to use](https://lucaf.eu/2025/02/22/scum-metrics.html)
+[^lucafeu-metrics]: [lucaf.eu - The metrics that Scrum requires you to use](https://lucaf.eu/2025/02/22/scrum-metrics.html)
 
 The regular cadence of the Sprints enables [[Scrum pillars|inspection]] and [[Scrum pillars|adaptation]], which helps improve the forecasts[^sprints-enable-predictability].
 

@@ -44,7 +44,7 @@ The single source of work for the [[Scrum Team]] is the [[Product Backlog]]. Onl
 The [[Developers]] improve their [[Sprint|forecast]] for how much can be be completed during the [[Sprint]] over time as they learn more[^step-two-forecast]. The [[Scrum Guide]] does not mandate any particular [[Sprint|forecasting]] technique they should use[^lucafeu-metrics].
 
 [^step-two-forecast]: "Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts."[^scrum-guide-2020]
-[^lucafeu-metrics]: [lucaf.eu - The metrics that Scrum requires you to use](https://lucaf.eu/2025/02/22/scum-metrics.html)
+[^lucafeu-metrics]: [lucaf.eu - The metrics that Scrum requires you to use](https://lucaf.eu/2025/02/22/scrum-metrics.html)
 ### How will the work be done in the [[Sprint]]?
 The [[Developers]] choose *how* to turn the selected [[Product Backlog|Product Backlog items]] into an [[Increment]] that meets the [[Definition of Done]]. The resulting plan is added to the [[Sprint Backlog]]. The [[Scrum Guide]] does not mandate any specific way to structure the plan, it is up to the [[Developers]][^topic-three].
 
