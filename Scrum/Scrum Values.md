@@ -2,6 +2,7 @@
 aliases:
   - focus
   - focused
+  - focuses
 ---
 From the [[Scrum Guide]].
 > Successful use of Scrum depends on people becoming more proficient in living five values:

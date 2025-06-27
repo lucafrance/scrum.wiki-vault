@@ -68,14 +68,6 @@ Each artifact contains a commitment to ensure it provides information that enhan
 
 These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 
-#### Commitment: Product Goal
-
-The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal.
-
-> _A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract._
-
-The Product Goal is the long-term objective for the Scrum Team. They must fulfill (or abandon) one objective before taking on the next.
-
 #### Commitment: Sprint Goal
 
 The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.
