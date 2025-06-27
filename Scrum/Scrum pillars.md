@@ -6,6 +6,8 @@ aliases:
   - adapting
   - adapt
   - inspect
+  - inspectable
+  - inspected
 ---
 There are three Scrum pillars: transparency, inspection, adaptation[^scrum-guide-2020].
 

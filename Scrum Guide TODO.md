@@ -82,14 +82,6 @@ The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal
 
 The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
 
-### Increment
-
-An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
-
-Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.
-
-Work cannot be considered part of an Increment unless it meets the Definition of Done.
-
 #### Commitment: Definition of Done
 
 The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.

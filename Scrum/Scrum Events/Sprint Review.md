@@ -3,7 +3,7 @@ The Sprint Review is the second to last event before the [[Sprint Retrospective]
 Agenda[^purpose-sprint-review][^during-the-event]:
 - The [[Scrum Team]] presents to the [[stakeholders|stakeholder]] the [[Increment|Increment(s)]] created during the [[Sprint]].
 - The participants discuss the progress towards the [[Product Goal]].
-- The [[stakeholders]] [[Scrum pillars|inspect]] the [[Increment]][^for-po-succeed].
+- The [[stakeholders]] [[Scrum pillars|inspect]] the [[Increment|Increment(s)]][^for-po-succeed].
 - The participants review what changed in the environment.
 - The participants collaborate on what to do next towards the [[Product Goal]].
 - If necessary, the [[Product Owner]] or some delegate updates the [[Product Backlog]] accordingly with new opportunities[^po-accountable-product-backlog].
@@ -17,6 +17,14 @@ Agenda[^purpose-sprint-review][^during-the-event]:
 [^for-po-succeed]:"For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review."[^scrum-guide-2020]
 
 [^po-accountable-product-backlog]: "The Product Owner is also accountable for effective Product Backlog management, \[...\]. The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable."[^scrum-guide-2020]
+
+> [!note]
+> Each [[Increment]] is presented at the Sprint Review, but it can already be delivered before. The Sprint Review is not an approval meeting. The [[Increment]] must already fulfill the [[Definition of Done]]. If an approval is part of the [[Definition of Done]], then it should happen before the [[Sprint Review]][^multiple-increments][^pbi-dod][^dod-creates-transparency][^work-cannot-be].
+
+[^multiple-increments]: "Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value."[^scrum-guide-2020]
+[^pbi-dod]: "The moment a Product Backlog item meets the Definition of Done, an Increment is born."[^scrum-guide-2020]
+[^dod-creates-transparency]: "The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration."[^scrum-guide-2020]
+[^work-cannot-be]: "Work cannot be considered part of an Increment unless it meets the Definition of Done."[^scrum-guide-2020]
 
 The Sprint Review is timeboxed to four hours maximum for the longest [[Sprint]] length (one month). For shorter [[Sprint|Sprints]] it should be less[^sprint-review-second-last][^sprint-length]. The [[Scrum Master]] ensures that the Sprint Review takes place and stays within the timebox[^scrum-master-events].
 

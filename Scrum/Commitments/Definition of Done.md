@@ -11,6 +11,6 @@ The [[Scrum Master]] helps "the Scrum Team focus on creating high-value [[Increm
 > [[Product Backlog|Product Backlog items]] that can be [[Definition of Done|Done]] by the [[Scrum Team]] within one [[Sprint]] are deemed ready for selection in a [[Sprint Planning]] event. They usually acquire this degree of [[Scrum pillars|transparency]] after [[Product Backlog|refining]] activities. \[...\]
 > [[Scrum Guide|Scrum Guide (2020)]]
 
-
+[^work-cannot-be]: "Work cannot be considered part of an Increment unless it meets the Definition of Done."[^scrum-guide-2020]
 
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]

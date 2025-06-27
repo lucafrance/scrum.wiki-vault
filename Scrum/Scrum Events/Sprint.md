@@ -19,7 +19,7 @@ There is always an ongoing [[Sprint]]. Every Sprint after the first one starts a
 
 For each [[Sprint]], there can be multiple [[Increment|increments]][^multiple-increments]. The [[Developers]] are [[commitment|committed]] in creating at least one[^developers-definition].
 
-[^multiple-increments]: "Multiple Increments may be created within a Sprint."[^scrum-guide-2020]
+[^multiple-increments]: "Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value."[^scrum-guide-2020]
 [^developers-definition]: "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."[^scrum-guide-2020]
 
 During the Sprint:
