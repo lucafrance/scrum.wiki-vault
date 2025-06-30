@@ -52,16 +52,6 @@ Inspection enables adaptation. Inspection without adaptation is considered point
 If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
 
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
-
-## Scrum Artifacts
-
-Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
-- For the Product Backlog it is the Product Goal.
-- For the Sprint Backlog it is the Sprint Goal.
-- For the Increment it is the Definition of Done.
-
-These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
-
 ## End Note
 
 Scrum is free and offered in this Guide. The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.

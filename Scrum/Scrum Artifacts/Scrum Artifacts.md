@@ -22,4 +22,8 @@ The [[Scrum artifacts]] are functional to the [[Scrum pillars]] of [[Scrum pilla
 [^purpose-daily-scrum]: "The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work."[^scrum-guide-2020]
 [^purpose-sprint-review]: "The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed."[^scrum-guide-2020]
 
+Each [[Scrum artifacts|Scrum artifact]] has its own [[commitment]] to reinforce [[empiricism]] and the [[Scrum Values]][^these-commitments-exist].
+
+[^these-commitments-exist]: "These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders."[^scrum-guide-2020]
+
 [^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
