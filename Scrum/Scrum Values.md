@@ -17,3 +17,8 @@ The Scrum Values are reflected in the [[Scrum Guide]], e.g.:
 - "\[The [[Developers]] hold\] each other accountable as professionals".
 - "[[Scrum Master|Scrum Masters]] are true leaders who serve the [[Scrum Team]] and the larger [[organization]]."
 - "\[The [[Sprint|Sprints]]] are fixed length events of one month or less to create consistency."
+- "\[The [[Sprint Goal]]\] creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives."
+
+[^sprint-goal-is]: "The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives."[^scrum-guide-2020]
+
+[^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
