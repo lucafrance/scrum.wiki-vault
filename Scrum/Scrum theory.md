@@ -13,6 +13,7 @@ aliases:
   - Scrum pillar
   - Scrum pillars
   - empiricism
+  - lean thinking
 ---
 From the [[Scrum Guide|Scrum Guide (2020)]]:
 > [[Scrum framework|Scrum]] is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
