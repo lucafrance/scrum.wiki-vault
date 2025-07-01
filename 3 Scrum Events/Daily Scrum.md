@@ -3,7 +3,7 @@ The Daily Scrum takes place every workday of the [[Sprint]]. The [[Developers]] 
 
 Agenda[^daily-scrum-15min]:
 - progress towards the [[Sprint Backlog]],
-- [[Scrum theory|adapt]] the [[Sprint Backlog]] accordingly.
+- [[1.3 Scrum theory|adapt]] the [[Sprint Backlog]] accordingly.
 The [[Sprint Backlog]] can be further updated throughout the day[^daily-not-only-time].
 
 [^daily-scrum-15min]: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers."[^scrum-guide-2020]
@@ -22,11 +22,11 @@ The Daily Scrum is timeboxed to 15 minutes[^daily-scrum-15min]. The [[Scrum Mast
 
 [^scrum-master-events]:"The Scrum Master serves the Scrum Team in several ways, including: \[...\] Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox."[^scrum-guide-2020]
 
-In general, the [[Scrum Guide]] recommends for the [[Scrum events]] to always take place at the same time and place[^optimally-all-events]. For the Daily Scrum specifically this is mandatory[^daily-scrum-15min].
+In general, the [[1.2 Scrum Guide]] recommends for the [[1.6 Scrum events]] to always take place at the same time and place[^optimally-all-events]. For the Daily Scrum specifically this is mandatory[^daily-scrum-15min].
 
 [^optimally-all-events]: "Optimally, all events are held at the same time and place to reduce complexity."[^scrum-guide-2020]
 
-The [[Scrum Guide]] does not mandate any particular structure for the meeting. The [[Developers]] can structure it as they please as long as they [[Scrum Values|focus]] on the [[Sprint Goal]] and the progress towards it for the day. The [[Scrum Master]] can help the [[Developers]] have a productive Daily Scrum[^devs-can-select-structure][^scrum-master-productive].
+The [[1.2 Scrum Guide]] does not mandate any particular structure for the meeting. The [[Developers]] can structure it as they please as long as they [[1.4 Scrum Values|focus]] on the [[Sprint Goal]] and the progress towards it for the day. The [[Scrum Master]] can help the [[Developers]] have a productive Daily Scrum[^devs-can-select-structure][^scrum-master-productive].
 
 [^devs-can-select-structure]:"The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management."[^scrum-guide-2020]
 
@@ -36,4 +36,4 @@ Ideally, the Daily Scrum eliminates the need for other meetings[^dailys-improve]
 
 
 
-[^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
+[^scrum-guide-2020]: [[1.2 Scrum Guide|Scrum Guide (2020)]]

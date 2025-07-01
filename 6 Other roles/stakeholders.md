@@ -11,9 +11,9 @@ The [[Scrum Master]] facilitates "[[stakeholders|stakeholder]] collaboration as 
 > - Leading, training, and coaching the organization in its Scrum adoption;
 > - Planning and advising Scrum implementations within the organization;
 > - Helping employees and [[stakeholders]] understand and enact an empirical approach for complex work; and,
-> - Removing barriers between [[stakeholders]] and [[Scrum Team|Scrum Teams]].
-> [[Scrum Guide|Scrum Guide (2020)]]
+> - Removing barriers between [[stakeholders]] and [[1.5 Scrum Team|Scrum Teams]].
+> [[1.2 Scrum Guide|Scrum Guide (2020)]]
 
 
-[^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
+[^scrum-guide-2020]: [[1.2 Scrum Guide|Scrum Guide (2020)]]
 [^product-backlog-updates]: "The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner."[^scrum-guide-2020]

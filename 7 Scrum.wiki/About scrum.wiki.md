@@ -1,4 +1,4 @@
-This wiki was written in 2025 based mostly on the [[Scrum Guide|Scrum Guide (2020)]]. It is designed to be as a quick reference for all relevant [[Scrum framework|Scrum]] and how they relate to each other.
+This wiki was written in 2025 based mostly on the [[1.2 Scrum Guide|Scrum Guide (2020)]]. It is designed to be as a quick reference for all relevant [[1.1 Scrum framework|Scrum]] and how they relate to each other.
 
 ## About the author
 Hello, I'm Luca, an IT-Consultant living in Munich. Visit [lucaf.eu](https://lucaf.eu/) to reach out or follow me.

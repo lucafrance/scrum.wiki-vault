@@ -6,7 +6,7 @@ aliases:
   - forecasting
   - forecast
 ---
-The [[Sprint]] is the main [[Scrum events|Scrum event]]. All the [[Scrum Team]]'s work happens within the [[Sprint]], including the other [[Scrum events]][^all-work-sprint]. Sprints have a fixed length of one month of less to improve [[Scrum Values|focus and consistency]] of the [[Scrum Team]][^sprint-focus-consistency].
+The [[Sprint]] is the main [[1.6 Scrum events|Scrum event]]. All the [[1.5 Scrum Team]]'s work happens within the [[Sprint]], including the other [[1.6 Scrum events]][^all-work-sprint]. Sprints have a fixed length of one month of less to improve [[1.4 Scrum Values|focus and consistency]] of the [[1.5 Scrum Team]][^sprint-focus-consistency].
 
 [^all-work-sprint]: "The Sprint is a container for all other events." "All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints."[^scrum-guide-2020]
 [^sprint-focus-consistency]:"Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency." "They are fixed length events of one month or less to create consistency."[^scrum-guide-2020]
@@ -17,7 +17,7 @@ There is always an ongoing [[Sprint]]. Every Sprint after the first one starts a
 [^sprint-end]: "The Sprint Retrospective concludes the Sprint."[^scrum-guide-2020]
 [^sprint-cancelled]: "A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint."[^scrum-guide-2020]
 
-For each [[Sprint]], there can be multiple [[Increment|increments]][^multiple-increments]. The [[Developers]] are [[commitment|committed]] in creating at least one[^developers-definition].
+For each [[Sprint]], there can be multiple [[Increment|increments]][^multiple-increments]. The [[Developers]] are [[1.8 commitment|committed]] in creating at least one[^developers-definition].
 
 [^multiple-increments]: "Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value."[^scrum-guide-2020]
 [^developers-definition]: "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."[^scrum-guide-2020]
@@ -34,9 +34,9 @@ During the Sprint:
 [^po-accountable-refinement]: "The Product Owner is also accountable for effective Product Backlog management \[...\]." "The Product Owner may do the above work or may delegate the responsibility to others."[^scrum-guide-2020]
 ## Sprint duration
 
-The [[Scrum Guide]] specifies that each Sprint should last one month of less, but there is no mandated minimum[^scrum-guide-2020].
+The [[1.2 Scrum Guide]] specifies that each Sprint should last one month of less, but there is no mandated minimum[^scrum-guide-2020].
 
-Shorter Sprints reduce complexity, reduce risk, and allow more chances for [[Scrum theory|inspection]][^shorter-sprints][^help-inspection]. The Sprint should be long enough for the [[Scrum Team]] to create at least an [[Increment]][^increment-sprint-accountability].
+Shorter Sprints reduce complexity, reduce risk, and allow more chances for [[1.3 Scrum theory|inspection]][^shorter-sprints][^help-inspection]. The Sprint should be long enough for the [[1.5 Scrum Team]] to create at least an [[Increment]][^increment-sprint-accountability].
 
 [^help-inspection]:"To help with inspection, Scrum provides cadence in the form of its five events."[^scrum-guide-2020]
 [^shorter-sprints]:"Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame."
@@ -46,16 +46,16 @@ If the Sprint is too long, the [[Sprint Goal]] is more likely to become obsolete
 
 [^sprint-too-long]:"When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase."[^scrum-guide-2020]
 
-[^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
+[^scrum-guide-2020]: [[1.2 Scrum Guide|Scrum Guide (2020)]]
 
 ## Sprint forecasts
 
-Any form of forecasting by the [[Scrum Team]] be based on [[Scrum theory]], as in learning from past events. The [[Scrum Guide]] does not mandate any particular forecasting technique, the [[Scrum Team]] is free to use whatever it please[^forecast-empiricism][^lucafeu-metrics].
+Any form of forecasting by the [[1.5 Scrum Team]] be based on [[1.3 Scrum theory]], as in learning from past events. The [[1.2 Scrum Guide]] does not mandate any particular forecasting technique, the [[1.5 Scrum Team]] is free to use whatever it please[^forecast-empiricism][^lucafeu-metrics].
 
 [^forecast-empiricism]: "Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making."[^scrum-guide-2020]
 [^lucafeu-metrics]: [lucaf.eu - The metrics that Scrum requires you to use](https://lucaf.eu/2025/02/22/scrum-metrics.html)
 
-The regular cadence of the Sprints enables [[Scrum theory|inspection]] and [[Scrum theory|adaptation]], which helps improve the forecasts[^sprints-enable-predictability].
+The regular cadence of the Sprints enables [[1.3 Scrum theory|inspection]] and [[1.3 Scrum theory|adaptation]], which helps improve the forecasts[^sprints-enable-predictability].
 
 [^sprints-enable-predictability]: "Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month."[^scrum-guide-2020]
 

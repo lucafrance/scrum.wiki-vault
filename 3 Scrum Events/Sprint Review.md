@@ -1,9 +1,9 @@
-The Sprint Review is the second to last event before the [[Sprint Retrospective]], which ends the [[Sprint]]. The participants are the [[Scrum Team]] and key [[stakeholders]][^purpose-sprint-review][^sprint-review-second-last]. 
+The Sprint Review is the second to last event before the [[Sprint Retrospective]], which ends the [[Sprint]]. The participants are the [[1.5 Scrum Team]] and key [[stakeholders]][^purpose-sprint-review][^sprint-review-second-last]. 
 
 Agenda[^purpose-sprint-review][^during-the-event]:
-- The [[Scrum Team]] presents to the [[stakeholders|stakeholder]] the [[Increment|Increment(s)]] created during the [[Sprint]].
+- The [[1.5 Scrum Team]] presents to the [[stakeholders|stakeholder]] the [[Increment|Increment(s)]] created during the [[Sprint]].
 - The participants discuss the progress towards the [[Product Goal]].
-- The [[stakeholders]] [[Scrum theory|inspect]] the [[Increment|Increment(s)]][^for-po-succeed].
+- The [[stakeholders]] [[1.3 Scrum theory|inspect]] the [[Increment|Increment(s)]][^for-po-succeed].
 - The participants review what changed in the environment.
 - The participants collaborate on what to do next towards the [[Product Goal]].
 - If necessary, the [[Product Owner]] or some delegate updates the [[Product Backlog]] accordingly with new opportunities[^po-accountable-product-backlog].
@@ -31,4 +31,4 @@ The Sprint Review is timeboxed to four hours maximum for the longest [[Sprint]] 
 [^sprint-length]: "They are fixed length events of one month or less to create consistency."[^scrum-guide-2020]
 [^scrum-master-events]:"The Scrum Master serves the Scrum Team in several ways, including: \[...\] Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox."[^scrum-guide-2020]
 
-[^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
+[^scrum-guide-2020]: [[1.2 Scrum Guide|Scrum Guide (2020)]]
