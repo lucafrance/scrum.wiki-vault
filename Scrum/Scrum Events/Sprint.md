@@ -36,7 +36,7 @@ During the Sprint:
 
 The [[Scrum Guide]] specifies that each Sprint should last one month of less, but there is no mandated minimum[^scrum-guide-2020].
 
-Shorter Sprints reduce complexity, reduce risk, and allow more chances for [[Scrum pillars|inspection]][^shorter-sprints][^help-inspection]. The Sprint should be long enough for the [[Scrum Team]] to create at least an [[Increment]][^increment-sprint-accountability].
+Shorter Sprints reduce complexity, reduce risk, and allow more chances for [[Scrum theory|inspection]][^shorter-sprints][^help-inspection]. The Sprint should be long enough for the [[Scrum Team]] to create at least an [[Increment]][^increment-sprint-accountability].
 
 [^help-inspection]:"To help with inspection, Scrum provides cadence in the form of its five events."[^scrum-guide-2020]
 [^shorter-sprints]:"Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame."
@@ -50,12 +50,12 @@ If the Sprint is too long, the [[Sprint Goal]] is more likely to become obsolete
 
 ## Sprint forecasts
 
-Any form of forecasting by the [[Scrum Team]] be based on [[empiricism]], as in learning from past events. The [[Scrum Guide]] does not mandate any particular forecasting technique, the [[Scrum Team]] is free to use whatever it please[^forecast-empiricism][^lucafeu-metrics].
+Any form of forecasting by the [[Scrum Team]] be based on [[Scrum theory]], as in learning from past events. The [[Scrum Guide]] does not mandate any particular forecasting technique, the [[Scrum Team]] is free to use whatever it please[^forecast-empiricism][^lucafeu-metrics].
 
 [^forecast-empiricism]: "Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making."[^scrum-guide-2020]
 [^lucafeu-metrics]: [lucaf.eu - The metrics that Scrum requires you to use](https://lucaf.eu/2025/02/22/scrum-metrics.html)
 
-The regular cadence of the Sprints enables [[Scrum pillars|inspection]] and [[Scrum pillars|adaptation]], which helps improve the forecasts[^sprints-enable-predictability].
+The regular cadence of the Sprints enables [[Scrum theory|inspection]] and [[Scrum theory|adaptation]], which helps improve the forecasts[^sprints-enable-predictability].
 
 [^sprints-enable-predictability]: "Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month."[^scrum-guide-2020]
 

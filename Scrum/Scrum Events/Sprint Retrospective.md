@@ -3,7 +3,7 @@ The Sprint Retrospective is the last event of the [[Sprint]] and concludes it. W
 [^sprint-retrospective-concludes]: "The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."[^scrum-guide-2020]
 [^a-new-sprint-starts]: "A new Sprint starts immediately after the conclusion of the previous Sprint."[^scrum-guide-2020]
 
-Only the [[Scrum Team]] participates to the Sprint Retrospective. It is an opportunity to [[Scrum pillars|inspect]] how they work[^purpose-sprint-retrospective][^scrum-team-inspects].
+Only the [[Scrum Team]] participates to the Sprint Retrospective. It is an opportunity to [[Scrum theory|inspect]] how they work[^purpose-sprint-retrospective][^scrum-team-inspects].
 
 Agenda[^scrum-team-inspects][^scrum-team-identifies]:
 - What went well during the [[Sprint]]?

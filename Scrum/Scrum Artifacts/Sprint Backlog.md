@@ -14,7 +14,7 @@ The [[Scrum Team]] creates the Sprint Backlog during the [[Sprint Planning]][^sp
 
 The Sprint Backlog is updated throughout the [[Sprint]] as work progresses and more is learned[^sprint-backlog-is-a-plan].
 
-The [[Developers]] inspect the progress toward the [[Sprint Goal]] every workday at the [[Daily Scrum]][^sprint-goal-daily-scrum]. They can [[Scrum pillars|adapt]] the [[Sprint Backlog]] accordingly throughout the day as necessary[^backlog-update-multiple-times]. The scope of the [[Sprint Backlog]] can be negotiated by the Developers with the [[Product Owner]] as long as the [[Sprint Goal]] stays unaffected[^negotiate-scope-po].
+The [[Developers]] inspect the progress toward the [[Sprint Goal]] every workday at the [[Daily Scrum]][^sprint-goal-daily-scrum]. They can [[Scrum theory|adapt]] the [[Sprint Backlog]] accordingly throughout the day as necessary[^backlog-update-multiple-times]. The scope of the [[Sprint Backlog]] can be negotiated by the Developers with the [[Product Owner]] as long as the [[Sprint Goal]] stays unaffected[^negotiate-scope-po].
 
 [^sprint-goal-daily-scrum]: "The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work. The Daily Scrum is a 15-minute event for the Developers of the Scrum Team."^[^scrum-guide-2020]
 [^backlog-update-multiple-times]: "The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint’s work."[^scrum-guide-2020]

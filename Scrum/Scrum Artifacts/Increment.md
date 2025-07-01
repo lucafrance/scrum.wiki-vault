@@ -16,7 +16,7 @@ For each [[Sprint]], there can be multiple Increments[^multiple-increments]. The
 [^multiple-increments]: "Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value."[^scrum-guide-2020]
 [^developers-definition]: "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."[^scrum-guide-2020]
 
-The Increment is presented at the [[Sprint Review]] to the participating [[stakeholders]], but it can be delivered before. The [[organization]] can [[Scrum pillars|inspect]] the [[Increment]] at the [[Sprint Review]], giving visibility to some of decisions of the [[Product Owner]][^for-po-succeed][^purpose-sprint-review].
+The Increment is presented at the [[Sprint Review]] to the participating [[stakeholders]], but it can be delivered before. The [[organization]] can [[Scrum theory|inspect]] the [[Increment]] at the [[Sprint Review]], giving visibility to some of decisions of the [[Product Owner]][^for-po-succeed][^purpose-sprint-review].
 
 [^for-po-succeed]:For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review."[^scrum-guide-2020]
 [^purpose-sprint-review]: "The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed."

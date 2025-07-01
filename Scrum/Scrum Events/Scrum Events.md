@@ -2,12 +2,12 @@
 aliases:
   - Scrum event
 ---
-There are five events in Scrum, which implement the [[Scrum pillars]][^scrum-combines].
+There are five events in Scrum, which implement the [[Scrum theory]][^scrum-combines].
 - The [[Sprint]] of one month of less, which encompasses all other events[^scrum-combines][^sprints-are-fixed-length].
 - The [[Sprint Planning]] at the beginning at the [[Sprint]] to create the [[Sprint Backlog]][^sprint-plan-initiates].
 - The [[Daily Scrum]] each workday of the [[Sprint]] to monitor progress towards the [[Sprint Goal]] and adapt the [[Sprint Backlog]][^purpose-daily-scrum][^daily-scrum-is].
-- The [[Sprint Review]] for the [[Scrum Team]] and [[stakeholders]] to [[Scrum pillars|inspect]] what was created during the [[Sprint]][^purpose-sprint-review].
-- The [[Sprint Retrospective]] for the [[Scrum Team]] to [[Scrum pillars|inspect]] how the [[Sprint]] went and [[Scrum pillars|adapt]] accordingly. The [[Sprint Retrospective]] ends the [[Sprint]][^scrum-team-inspects][^sprint-retrospective-concludes].
+- The [[Sprint Review]] for the [[Scrum Team]] and [[stakeholders]] to [[Scrum theory|inspect]] what was created during the [[Sprint]][^purpose-sprint-review].
+- The [[Sprint Retrospective]] for the [[Scrum Team]] to [[Scrum theory|inspect]] how the [[Sprint]] went and [[Scrum theory|adapt]] accordingly. The [[Sprint Retrospective]] ends the [[Sprint]][^scrum-team-inspects][^sprint-retrospective-concludes].
 
 [^scrum-combines]: "Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation."[^scrum-guide-2020]
 [^sprints-are-fixed-length]: "They are fixed length events of one month or less to create consistency."[^scrum-guide-2020]

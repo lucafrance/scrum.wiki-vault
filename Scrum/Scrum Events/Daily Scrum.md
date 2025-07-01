@@ -3,7 +3,7 @@ The Daily Scrum takes place every workday of the [[Sprint]]. The [[Developers]] 
 
 Agenda[^daily-scrum-15min]:
 - progress towards the [[Sprint Backlog]],
-- [[Scrum pillars|adapt]] the [[Sprint Backlog]] accordingly.
+- [[Scrum theory|adapt]] the [[Sprint Backlog]] accordingly.
 The [[Sprint Backlog]] can be further updated throughout the day[^daily-not-only-time].
 
 [^daily-scrum-15min]: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers."[^scrum-guide-2020]
