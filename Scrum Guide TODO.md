@@ -8,21 +8,6 @@ We follow the growing use of Scrum within an ever-growing complex world. We are 
 
 As Scrum is being used, patterns, processes, and insights that fit the Scrum framework as described in this document, may be found, applied and devised. Their description is beyond the purpose of the Scrum Guide because they are context sensitive and differ widely between Scrum uses. Such tactics for using within the Scrum framework vary widely and are described elsewhere.
 
-## Scrum Definition
-
-Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
-
-In a nutshell, Scrum requires a Scrum Master to foster an environment where:
-1. A Product Owner orders the work for a complex problem into a Product Backlog.
-2. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
-3. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
-4. _Repeat_
-
-Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
-
-Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
-
-
 ## End Note
 
 Scrum is free and offered in this Guide. The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
