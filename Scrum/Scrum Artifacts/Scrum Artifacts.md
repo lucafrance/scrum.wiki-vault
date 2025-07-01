@@ -1,6 +1,7 @@
 ---
 aliases:
   - Scrum artifact
+  - artifacts
 ---
 There are three artifacts in [[Scrum framework|Scrum]]:
 - [[Product Backlog]],

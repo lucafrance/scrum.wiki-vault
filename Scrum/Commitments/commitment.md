@@ -1,6 +1,7 @@
 ---
 aliases:
   - committed
+  - goals
 ---
 "Commitment" is one of the five [[Scrum Values]]. The [[Scrum Guide]] defines a commitment for each of the three [[Scrum artifacts]][^successful-use][^each-artifact].
 
