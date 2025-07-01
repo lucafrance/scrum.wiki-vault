@@ -3,12 +3,12 @@ aliases:
   - DoD
   - done
 ---
-The Definition of Done (DoD) is the [[1.8 commitment]] for the [[Increment]][^each-artifact]. A [[Product Backlog|Product Backlog item]] selected for the [[Sprint]] becomes an [[Increment]] when it meets the Definition of Done[^the-moment-a-pbi].
+The Definition of Done (DoD) is the [[1.8 commitment|commitment]] for the [[Increment]][^each-artifact]. A [[Product Backlog|Product Backlog item]] selected for the [[Sprint]] becomes an [[Increment]] when it meets the Definition of Done[^the-moment-a-pbi].
 
 [^each-artifact]: "Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured: \[...\] For the Increment it is the Definition of Done."[^scrum-guide-2020]
 [^the-moment-a-pbi]: "The moment a Product Backlog item meets the Definition of Done, an Increment is born."[^scrum-guide-2020]
 
-If available, the [[1.5 Scrum Team]] uses a Definition of Done provided by the [[organization]]. If not, they define their own Definition of Done[^dod-organization].
+If available, the [[1.5 Scrum Team|Scrum Team]] uses a Definition of Done provided by the [[organization]]. If not, they define their own Definition of Done[^dod-organization].
 
 [^dod-organization]: "If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."[^scrum-guide-2020]
 

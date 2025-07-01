@@ -6,7 +6,7 @@ The organization must respect the decisions of the [[Product Owner]], who is the
 - the [[Product Backlog]], which includes the [[Product Backlog|Product Backlog items]] and the [[Product Goal]];
 - the inspectable [[Increment]] at the [[Sprint Review]].
 
-> The [[Scrum Master]] is accountable for establishing [[1.1 Scrum framework|Scrum]] as defined in the [[1.2 Scrum Guide|Scrum Guide]]. They do this by helping everyone understand [[1.3 Scrum theory]] and practice, both within the [[1.5 Scrum Team]] and the [[organization]].
+> The [[Scrum Master]] is accountable for establishing [[1.1 Scrum framework|Scrum]] as defined in the [[1.2 Scrum Guide|Scrum Guide]]. They do this by helping everyone understand [[1.3 Scrum theory|Scrum theory]] and practice, both within the [[1.5 Scrum Team|Scrum Team]] and the [[organization]].
 > [[1.2 Scrum Guide|Scrum Guide (2020)]]
 
 > The [[Scrum Master]] serves the [[organization]] in several ways, including:

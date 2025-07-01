@@ -1,7 +1,7 @@
-The Sprint Review is the second to last event before the [[Sprint Retrospective]], which ends the [[Sprint]]. The participants are the [[1.5 Scrum Team]] and key [[stakeholders]][^purpose-sprint-review][^sprint-review-second-last]. 
+The Sprint Review is the second to last event before the [[Sprint Retrospective]], which ends the [[Sprint]]. The participants are the [[1.5 Scrum Team|Scrum Team]] and key [[stakeholders]][^purpose-sprint-review][^sprint-review-second-last]. 
 
 Agenda[^purpose-sprint-review][^during-the-event]:
-- The [[1.5 Scrum Team]] presents to the [[stakeholders|stakeholder]] the [[Increment|Increment(s)]] created during the [[Sprint]].
+- The [[1.5 Scrum Team|Scrum Team]] presents to the [[stakeholders|stakeholder]] the [[Increment|Increment(s)]] created during the [[Sprint]].
 - The participants discuss the progress towards the [[Product Goal]].
 - The [[stakeholders]] [[1.3 Scrum theory|inspect]] the [[Increment|Increment(s)]][^for-po-succeed].
 - The participants review what changed in the environment.

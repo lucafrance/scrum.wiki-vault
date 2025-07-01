@@ -1,4 +1,4 @@
-The Developers are members of the [[1.5 Scrum Team]][^scrum-guide-2020].
+The Developers are members of the [[1.5 Scrum Team|Scrum Team]][^scrum-guide-2020].
 
 They are accountable for[^scrum-guide-2020].
 - creating the [[Sprint Backlog]] every [[Sprint]],
@@ -6,7 +6,7 @@ They are accountable for[^scrum-guide-2020].
 - [[1.3 Scrum theory|adapting]] the plan in the [[Sprint Backlog]] towards the [[Sprint Goal]] each day,
 - "holding [[1.4 Scrum Values|each other]] accountable as professionals".
 
-They are committed in creating at least one [[Increment]] for each [[Sprint]][^multiple-increments], while the whole [[1.5 Scrum Team]] is accountable for it[^scrum-guide-2020].
+They are committed in creating at least one [[Increment]] for each [[Sprint]][^multiple-increments], while the whole [[1.5 Scrum Team|Scrum Team]] is accountable for it[^scrum-guide-2020].
 
 [^multiple-increments]: "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint." "Multiple Increments may be created within a Sprint."[^scrum-guide-2020]
 [^increment-sprint-accountability]: "The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint."[^scrum-guide-2020]
