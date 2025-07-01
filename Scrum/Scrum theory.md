@@ -14,21 +14,13 @@ aliases:
   - Scrum pillars
   - empiricism
 ---
+From the [[Scrum Guide|Scrum Guide (2020)]]:
+> [[Scrum framework|Scrum]] is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
+> 
+> [[Scrum framework|Scrum]] employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+> 
+> [[Scrum framework|Scrum]] combines four formal [[Scrum events|events]] for inspection and adaptation within a containing event, the [[Sprint]]. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
 
-> The [[Scrum Master]] is accountable for establishing [[Scrum framework|Scrum]] as defined in the [[Scrum Guide|Scrum Guide]]. They do this by helping everyone understand [[Scrum theory]] and practice, both within the [[Scrum Team]] and the [[organization]].
-> [[Scrum Guide|Scrum Guide (2020)]]
-
-## Empiricism
-
-Empiricism is applied when [[Sprint|forecasting]] progress.
-
-[^forecast-empiricism]: "Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making."[^scrum-guide-2020]
-
-The [[Scrum theory|inspectable]] [[Increment]] at the [[Sprint Review]] support empiricism[^multiple-increments].
-
-[^multiple-increments]: "Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value."[^scrum-guide-2020]
-
-[^scrum-guide-2020]: [[Scrum Guide|Scrum Guide (2020)]]
 ## Scrum pillars
 
 There are three Scrum pillars: transparency, inspection, adaptation[^scrum-guide-2020]. The [[Scrum artifacts]] and [[Scrum events]] implement the Scrum pillars. The [[Scrum artifacts]] are *transparent* to anybody in the [[organization]]. Since they are transparent, they can be *inspected* regularly. The [[Scrum events]] provide the cadence to ensure that the *inspection* takes place. As the [[Scrum artifacts]] are *inspected*, more is learned, enabling *adaptation*[^scrum-events][^transparency][^inspection][^adaptation].

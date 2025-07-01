@@ -1,6 +1,7 @@
 ---
 aliases:
   - Scrum event
+  - events
 ---
 There are five events in Scrum, which implement the [[Scrum theory]][^scrum-combines].
 - The [[Sprint]] of one month of less, which encompasses all other events[^scrum-combines][^sprints-are-fixed-length].
