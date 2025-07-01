@@ -2,6 +2,8 @@
 aliases:
   - Scrum
 ---
+Scrum is a Framework for product development through an iterative approach. It gets its name from a rugby formation. The [[Scrum Guide]] defines the framework as is currently understood[^scrum-development-process][^scrum-guide-2020].
+
 From the [[Scrum Guide|Scrum Guide (2020)]]:
 > Scrum is a lightweight framework that helps people, teams and [[organization|organizations]] generate value through adaptive solutions for complex problems.
 > 
@@ -15,3 +17,15 @@ From the [[Scrum Guide|Scrum Guide (2020)]]:
 > 
 > Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 
+## Scrum History
+- 1986 Hirotaka Takeuchi and Ikujiro Nonaka publish The New New Product Development Game on Harward Business Review. First instance of the word "Scrum" from Rugby used as a metaphor for product development[^scrum-development-process][^new-new-product-development].
+- 1995 Ken Schwaber and Jeff Sutherland present Scrum at OOPSLA 1995. First time Scrum is introduced as a development framework[^new-new-product-development][^scrum-guide-2020].
+- 1996 Ken Schwaber publishes the paper *SCRUM Development Process* based on his presentation at OOPSLA 1995. First written document describing the Scrum Framework[^new-new-product-development].
+- 2001 Scrum creators Ken Schwaber and Jeff Suttherland co-sign the *Manifesto for Agile Software Development*[^agile-manifesto]
+- 2010 First version of the Scrum Guide[^scrum-guide-2020]
+- 2020 Current version of the Scrum Guide published (v7)[^scrum-guide-2020]
+
+[^new-new-product-development]: [Harvard Business Review - *The New New Product Development Game* Hirotaka Takeuchi and Ikujiro Nonaka (1986)](https://hbr.org/1986/01/the-new-new-product-development-game)
+[^scrum-development-process]: [Scrum.org - *The Scrum Development Process* by Ken Schwaber (1996)](https://www.scrum.org/resources/scrum-development-process)
+[^agile-manifesto]:  [*Manifesto for Agile Software Development*](https://agilemanifesto.org/)
+[^scrum-guide-2020]: [scrumguides.org - *The 2020 Scrum Guide*](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
