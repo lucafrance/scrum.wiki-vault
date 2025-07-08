@@ -1,0 +1,10 @@
+.published-container::after {
+  content: "scrum.wiki © 2025 Luca Franceschini (lucaf.eu) — Licensed under CC BY-SA 4.0";
+  display: block;
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--text-muted);
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid var(--background-secondary);
+}
