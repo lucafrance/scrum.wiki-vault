@@ -1,0 +1,33 @@
+---
+permalink: home
+aliases:
+  - home 🏠
+---
+- 1 main concepts
+	- [[1.1 Scrum framework]]
+	- [[1.2 Scrum Guide]]
+	- [[1.3 Scrum theory]]
+	- [[1.4 Scrum Values]]
+	- [[1.5 Scrum Team]]
+	- [[1.6 Scrum events]]
+	- [[1.7 Scrum artifacts]]
+	- [[1.8 commitment]]
+- 2 [[1.5 Scrum Team|Scrum Team]]
+	- [[2.1 Developers]]
+	- [[2.2 Product Owner]]
+	- [[2.3 Scrum Master]]
+- 3 [[1.6 Scrum events|Scrum events]]
+	- [[3.1 Sprint]]
+	- [[3.2 Sprint Planning]]
+	- [[3.3 Daily Scrum]]
+	- [[3.4 Sprint Review]]
+	- [[3.5 Sprint Retrospective]]
+- 4 [[1.7 Scrum artifacts|Scrum artifacts]]
+	- [[4.1 Product Backlog]]
+	- [[4.2 Sprint Backlog]]
+	- [[4.3 Increment]]
+- 5 [[1.8 commitment|commitments]]
+	- [[6.1 organization]]
+	- [[6.2 stakeholders]]
+- 7 [scrum.wiki](https://scrum.wiki)
+	- [[about scrum.wiki]]
