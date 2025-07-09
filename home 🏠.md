@@ -27,6 +27,10 @@ aliases:
 	- [[4.2 Sprint Backlog]]
 	- [[4.3 Increment]]
 - 5 [[1.8 commitment|commitments]]
+	- [[5.1 Product Goal]]
+	- [[5.2 Sprint Goal]]
+	- [[5.3 Definition of Done]]
+- 6 other roles
 	- [[6.1 organization]]
 	- [[6.2 stakeholders]]
 - 7 [scrum.wiki](https://scrum.wiki)
