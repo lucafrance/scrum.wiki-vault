@@ -1,4 +1,6 @@
 This wiki was written in 2025 based mostly on the [[1.2 Scrum Guide|Scrum Guide (2020)]]. It is designed to be a quick reference for all relevant [[1.1 Scrum framework|Scrum]] topics and how they relate to each other.
+
+The wiki is available as an [Obsidian](https://obsidian.md/)  vault to download on [GitHub](https://github.com/lucafrance/scrum.wiki-vault).
 ## About the author
 Hello, I'm Luca, an IT-Consultant living in Munich. Visit [lucaf.eu](https://lucaf.eu/) to reach out or follow me.
 ## Contributing
