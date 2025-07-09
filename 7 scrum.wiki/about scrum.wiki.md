@@ -1,6 +1,8 @@
 This wiki was written in 2025 based mostly on the [[1.2 Scrum Guide|Scrum Guide (2020)]]. It is designed to be a quick reference for all relevant [[1.1 Scrum framework|Scrum]] topics and how they relate to each other.
 ## About the author
 Hello, I'm Luca, an IT-Consultant living in Munich. Visit [lucaf.eu](https://lucaf.eu/) to reach out or follow me.
+## Contributing
+If have suggestions or notice any errors, you can [open an issue on GitHub](https://github.com/lucafrance/scrum.wiki-vault/issues) or [write to me](https://lucaf.eu/contact).
 ## License
 <a href="https://scrum.wiki">scrum.wiki</a> © 2025 by <a href="https://lucaf.eu/">Luca Franceschini</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 ## Style guide
