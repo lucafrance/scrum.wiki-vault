@@ -1,0 +1,1 @@
+Repository for [scrum.wiki](https://scrum.wiki), hosted with [Obsidian Publish](https://obsidian.md/publish). You can download this repository and open it in [Obsidian](https://obsidian.md/) as a vault.
