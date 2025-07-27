@@ -1,3 +1,8 @@
+---
+permalink: about scrum.wiki
+aliases:
+  - 7 scrum.wiki/about scrum.wiki
+---
 This wiki was written in 2025 based mostly on the [[1.2 Scrum Guide|Scrum Guide (2020)]]. It is designed to be a quick reference for all relevant [[1.1 Scrum framework|Scrum]] topics and how they relate to each other.
 
 The wiki is available as an [Obsidian](https://obsidian.md/)  vault to download on [GitHub](https://github.com/lucafrance/scrum.wiki-vault).
@@ -11,3 +16,4 @@ If have suggestions or notice any errors, you can [open an issue on GitHub](http
 The capitalisation of Scrum terminology is consistent with the Scrum Guide if mentioned there. E.g.: *Product Owner* is capitalised, *transparency* is not.
 
 Each statement has source. Non-obvious interpretations of the Scrum Guide without a source are not included.
+

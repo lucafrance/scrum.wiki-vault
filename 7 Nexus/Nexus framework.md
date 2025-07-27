@@ -1,0 +1,41 @@
+---
+aliases:
+  - Nexus
+permalink: Nexus
+---
+
+> [!note]
+> The word *Nexus* can have two different meanings depending on the context:
+> -  the *Nexus framework*, as defined in the [[Nexus Guide]],
+> - a group of [[1.5 Scrum Team|Scrum Teams]] working according to the Nexus framework.
+
+The Nexus framework is scaled version of [[1.1 Scrum framework|Scrum]], defined in the [[Nexus Guide|Nexus Guide (2021)]]. It was developed by Ken Schwaber (co-creator of [[1.1 Scrum framework|Scrum]]) and [Scrum.org](https://www.scrum.org/). Nexus is designed for 3 to 9 [[1.5 Scrum Team|Scrum Teams]] working on the same [[5.1 Product Goal|product]], forming the Nexus[^nexus-is-group].
+
+[^nexus-developers]: "Ken Schwaber and Scrum.org developed Nexus."[^nexus-guide-2021]
+[^nexus-is-group]: "A Nexus is a group of approximately three to nine Scrum Teams that work together to deliver a single product; it is a connection between people and things. A Nexus has a single Product Owner who manages a single Product Backlog from which the Scrum Teams work."[^nexus-guide-2021]
+
+The [[1.2 Scrum Guide|Scrum Guide]] mentions the possibility of multiple [[1.5 Scrum Team|Scrum Teams]] working at the same [[5.1 Product Goal|product]] with the same [[2.2 Product Owner|Product Owner]][^multiple-scrum-teams]. The Nexus framework is one approach to work effectively in such situations. Nexus is not the only way to scale Scrum, there are other approaches like the Scrum of Scrums[^scrum-of-scrums] and the Scaled Agile Framework (SAFe)[^safe].
+
+[^multiple-scrum-teams]: "If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner."[^scrum-guide-2020]
+[^scrum-of-scrums]: [Scrum Alliance - Scrum of Scrums](https://www.scrumalliance.org/glossary/scrum-of-scrums)
+[^safe]: [Scaled Agile Framework website](https://framework.scaledagile.com)
+
+> [!note]
+> "Scaled Scrum is still Scrum". Nexus does not replace the [[1.1 Scrum framework|Scrum framework]], it expands it. The [[1.2 Scrum Guide|Scrum Guide]] still applies to the Nexus, including its roles, [[1.6 Scrum events|events]], and [[1.7 Scrum artifacts|artifacts]][^nexus-inherits-scrum]. As defined in [[1.1 Scrum framework|Scrum]], Nexus still shares[^multiple-scrum-teams][^commitment-increment]:
+> - one [[5.1 Product Goal|product]],
+> - one [[2.2 Product Owner|Product Owner]],
+> - one [[4.1 Product Backlog|Product Backlog]],
+> - one [[5.3 Definition of Done|Definition of Done]]. 
+
+[^nexus-inherits-scrum]: "The Nexus framework inherits the purpose and intent of the Scrum framework as documented in the [Scrum Guide](https://www.scrumguides.org/). Scaled Scrum is still Scrum. Nexus does not change the core design or ideas of Scrum, or leave out elements, or negate the rules of Scrum. Doing so covers up problems and limits the benefits of Scrum, potentially even rendering it useless."[^nexus-guide-2021]
+[^commitment-increment]:"The *commitment* for the Integrated Increment is the **Definition of Done**, which defines the state of the integrated work when it meets the quality and measures required for the product. The Increment is done only when integrated, valuable, and usable. The Nexus Integration Team is responsible for a Definition of Done that can be applied to the Integrated Increment developed each Sprint. All Scrum Teams within the Nexus must define and adhere to this Definition of Done. Individual Scrum Teams self-manage to achieve this state. They may choose to apply a more stringent Definition of Done within their own teams, but cannot apply less rigorous criteria than agreed for the Integrated Increment."[^nexus-guide-2021]
+## Nexus History[^nexus-change-history][^nexus-introduction]
+- 2015 1st version of the [[Nexus Guide]]
+- 2016 Whitepaper *An Introduction to the Nexus Framework*
+- 2018 2nd version of the [[Nexus Guide]]
+- 2021 3rd and current version of the [[Nexus Guide]]
+
+[^nexus-change-history]: [Scrum.org - Nexus Guide Change History](https://www.scrum.org/resources/nexus-guide-change-history)
+[^nexus-introduction]: [Scrum.org - An Introduction to the Nexus Framework](https://www.scrum.org/resources/introduction-nexus-framework)
+
+[^nexus-guide-2021]: [[Nexus Guide|Nexus Guide (2021)]]
