@@ -1,6 +1,7 @@
 ---
 aliases:
   - Nexus
+  - Nexus framework
 permalink: Nexus
 ---
 
@@ -21,7 +22,7 @@ The [[1.2 Scrum Guide|Scrum Guide]] mentions the possibility of multiple [[1.5 S
 [^safe]: [Scaled Agile Framework website](https://framework.scaledagile.com)
 
 > [!note]
-> "Scaled Scrum is still Scrum". Nexus does not replace the [[1.1 Scrum framework|Scrum framework]], it expands it. The [[1.2 Scrum Guide|Scrum Guide]] still applies to the Nexus, including its roles, [[1.6 Scrum events|events]], and [[1.7 Scrum artifacts|artifacts]][^nexus-inherits-scrum]. As defined in [[1.1 Scrum framework|Scrum]], Nexus still shares[^multiple-scrum-teams][^commitment-increment]:
+> "Scaled Scrum is still Scrum". Nexus does not invalidate any part of the [[1.1 Scrum framework|Scrum framework]]. Nexus expands the [[1.1 Scrum framework|Scrum framework]]. The [[1.2 Scrum Guide|Scrum Guide]] still applies to the Nexus, including its roles, [[1.6 Scrum events|events]], and [[1.7 Scrum artifacts|artifacts]][^nexus-inherits-scrum]. As defined in [[1.1 Scrum framework|Scrum]], Nexus still shares[^multiple-scrum-teams][^commitment-increment]:
 > - one [[5.1 Product Goal|product]],
 > - one [[2.2 Product Owner|Product Owner]],
 > - one [[4.1 Product Backlog|Product Backlog]],
