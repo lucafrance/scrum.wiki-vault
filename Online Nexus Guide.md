@@ -173,11 +173,3 @@ Nexus is free and offered in this Guide. As with the Scrum framework, the accoun
 ## Acknowledgements
 
 Nexus and Scaled Professional Scrum were collaboratively developed by Ken Schwaber, David Dame, Richard Hundhausen, Patricia Kong, Rob Maher, Steve Porter, Christina Schwaber, and Gunther Verheyen. A special thank you to Kurt Bittner, Ravi Verma, Fredrik Wendt, Jesse Houwing and Simon Flossmann for their significant contributions in advancing Nexus and Scaled Professional Scrum.
-
----
-
-## What did you think about this content?
-
-4.6 from 184 ratings
-
----
