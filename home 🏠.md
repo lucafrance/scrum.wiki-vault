@@ -3,6 +3,7 @@ permalink: home
 aliases:
   - home 🏠
 ---
+## Scrum
 - 1 main concepts
 	- [[1.1 Scrum framework]]
 	- [[1.2 Scrum Guide]]
@@ -33,5 +34,34 @@ aliases:
 - 6 other roles
 	- [[6.1 organization]]
 	- [[6.2 stakeholders]]
-- 7 [scrum.wiki](https://scrum.wiki)
-	- [[about scrum.wiki]]
+## Nexus
+- [[N1.1 Nexus framework|Nexus]]
+	- N1 Nexus main concepts
+		- [[N1.1 Nexus framework]]
+		- [[N1.2 Nexus Guide]]
+		- [[N1.3 Nexus theory]]
+		- [[N1.4 Nexus roles]]
+		- [[N1.5 Nexus Events]]
+		- [[N1.6 Nexus artifacts]]
+		- [[N1.7 Nexus commitments]]
+	- N2 [[N1.4 Nexus roles|Nexus roles]]
+		- [[2.1 Developers|Developers]]
+		- [[2.2 Product Owner|Product Owner]]
+		- [[2.3 Scrum Master|Scrum Master]]
+		- [[N2.1 Nexus Integration Team]]
+	- N3 [[N1.5 Nexus Events|Nexus events]]
+		- [[N3.1 Cross-Team refinement]]
+		- [[N3.2 Nexus Sprint Planning]]
+		- [[N3.3 Nexus Daily Scrum]]
+		- [[N3.4 Nexus Sprint Review]]
+		- [[N3.5 Nexus Sprint Retrospective]]
+	- N4 [[N1.6 Nexus artifacts|Nexus artifacts]]
+		- [[4.1 Product Backlog|Product Backlog]]
+		- [[N4.1 Nexus Sprint Backlog]]
+		- [[N4.2 Integrated Increment]]
+	- N5 [[N1.7 Nexus commitments|Nexus commitments]]
+		- [[5.1 Product Goal|Product Goal]]
+		- [[5.3 Definition of Done|Definition of Done]]
+		- [[N5.1 Nexus Sprint Goal]]
+## scrum.wiki
+- [[about scrum.wiki]]
