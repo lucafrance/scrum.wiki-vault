@@ -1,13 +1,11 @@
 ---
-title: "Online Nexus Guide"
-source: "https://www.scrum.org/resources/online-nexus-guide"
+title: Online Nexus Guide
+source: https://www.scrum.org/resources/online-nexus-guide
 author:
   - "[[Scrum.org]]"
-published:
+published: 
 created: 2025-07-27
-description: "An online version of The Definitive Guide to Nexus"
-tags:
-  - "clippings"
+description: An online version of The Definitive Guide to Nexus
 ---
 4.6 from 184 ratings
 
