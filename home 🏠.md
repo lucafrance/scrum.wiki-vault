@@ -3,6 +3,10 @@ permalink: home
 aliases:
   - home 🏠
 ---
+<img src="https://lucaf.eu/assets/2022/cv/cv_pic_luca_franceschini.jpg" style="float:right;padding-left:10px" width="25%">
+Welcome to scrum.wiki! The Scrum reference by a Scrum professional, for Scrum professionals.
+
+I am Luca, an IT consultant based in Munich. If you have questions after using this wiki or just want to reach, you can find me at [lucaf.eu](https://lucaf.eu/).
 ## Scrum
 - 1 main concepts
 	- [[1.1 Scrum framework]]

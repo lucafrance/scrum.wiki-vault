@@ -3,11 +3,9 @@ permalink: about scrum.wiki
 aliases:
   - 7 scrum.wiki/about scrum.wiki
 ---
-This wiki was written in 2025 based mostly on the [[1.2 Scrum Guide|Scrum Guide (2020)]]. It is designed to be a quick reference for all relevant [[1.1 Scrum framework|Scrum]] topics and how they relate to each other.
+This wiki was written in 2025 based mostly on the [[1.2 Scrum Guide|Scrum Guide (2020)]] and the [[N1.2 Nexus Guide|Nexus Guide (2021)]]. It is designed to be a quick reference for all relevant [[1.1 Scrum framework|Scrum]] topics and how they relate to each other.
 
 The wiki is available as an [Obsidian](https://obsidian.md/)  vault to download on [GitHub](https://github.com/lucafrance/scrum.wiki-vault).
-## About the author
-Hello, I'm Luca, an IT-Consultant living in Munich. Visit [lucaf.eu](https://lucaf.eu/) to reach out or follow me.
 ## Contributing
 If have suggestions or notice any errors, you can [open an issue on GitHub](https://github.com/lucafrance/scrum.wiki-vault/issues) or [write to me](https://lucaf.eu/contact).
 ## License
