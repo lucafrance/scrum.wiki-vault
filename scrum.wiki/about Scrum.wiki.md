@@ -3,6 +3,8 @@ permalink: about scrum.wiki
 aliases:
   - 7 scrum.wiki/about scrum.wiki
 ---
+# about Scrum.wiki
+
 This wiki was written in 2025 based mostly on the [[1.2 Scrum Guide|Scrum Guide (2020)]] and the [[N1.2 Nexus Guide|Nexus Guide (2021)]]. It is designed to be a quick reference for all relevant [[1.1 Scrum framework|Scrum]] topics and how they relate to each other.
 
 The wiki is available as an [Obsidian](https://obsidian.md/)  vault to download on [GitHub](https://github.com/lucafrance/scrum.wiki-vault).

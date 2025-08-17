@@ -3,6 +3,7 @@ permalink: home
 aliases:
   - home 🏠
 ---
+# home 🏠
 <img src="https://lucaf.eu/assets/2022/cv/cv_pic_luca_franceschini.jpg" style="float:right;padding-left:10px" width="15%">
 Welcome to Scrum.wiki! The Scrum reference by a Scrum professional, for Scrum professionals.
 
@@ -22,7 +23,7 @@ I am Luca, an IT consultant based in Munich. If you have questions or want to re
 >> | [[#Nexus roles 👥]] | [[#Nexus events 📅]] | [[#Nexus artifacts ⚙]] | [[#Nexus commitments 💪]] |
 >> | -------------------- | --------------------- | ------------------------ | ------------------------- |
 > 
-> >[!question] [[about scrum.wiki]]
+> >[!question] [[about Scrum.wiki]]
 
 
 ## Scrum 🔄
